@@ -15,3 +15,4 @@ for age in ages:
     totalage+= age
 print "Totalage", + totalage
 print "Average age:" , totalage/len(ages)
+me fui!!
